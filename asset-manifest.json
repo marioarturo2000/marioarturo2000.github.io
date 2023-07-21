@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1c4397f6.css",
-    "main.js": "./static/js/main.f8ef569a.js",
+    "main.js": "./static/js/main.c32f78f6.js",
     "static/media/dg33x3m-855bd406-dcec-4073-8570-6815313c2781.jpg": "./static/media/dg33x3m-855bd406-dcec-4073-8570-6815313c2781.32ef0f3c74427b88645c.jpg",
     "static/media/ICEE-BEBIDAS-1.png": "./static/media/ICEE-BEBIDAS-1.f008dd5a2ddcc810fa7f.png",
     "static/media/SnT764xvj.webp": "./static/media/SnT764xvj.576017b27b9f12828326.webp",
@@ -20,10 +20,10 @@
     "static/media/phil.webp": "./static/media/phil.bfb7f16eb39d07db42a0.webp",
     "index.html": "./index.html",
     "main.1c4397f6.css.map": "./static/css/main.1c4397f6.css.map",
-    "main.f8ef569a.js.map": "./static/js/main.f8ef569a.js.map"
+    "main.c32f78f6.js.map": "./static/js/main.c32f78f6.js.map"
   },
   "entrypoints": [
     "static/css/main.1c4397f6.css",
-    "static/js/main.f8ef569a.js"
+    "static/js/main.c32f78f6.js"
   ]
 }
