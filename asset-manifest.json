@@ -1,14 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.86a9ca76.css",
-    "main.js": "./static/js/main.7cb6e2d2.js",
+    "main.css": "./static/css/main.1c4397f6.css",
+    "main.js": "./static/js/main.f8ef569a.js",
     "static/media/dg33x3m-855bd406-dcec-4073-8570-6815313c2781.jpg": "./static/media/dg33x3m-855bd406-dcec-4073-8570-6815313c2781.32ef0f3c74427b88645c.jpg",
+    "static/media/ICEE-BEBIDAS-1.png": "./static/media/ICEE-BEBIDAS-1.f008dd5a2ddcc810fa7f.png",
+    "static/media/SnT764xvj.webp": "./static/media/SnT764xvj.576017b27b9f12828326.webp",
+    "static/media/001refrescos-03m-cocacolasinazucarlo1.png": "./static/media/001refrescos-03m-cocacolasinazucarlo1.e3dd3d6d5ab4958ad39c.png",
+    "static/media/will.webp": "./static/media/will.a3292a9b6d37c0d9fe45.webp",
+    "static/media/lorelai.webp": "./static/media/lorelai.5154c2270279b124dde7.webp",
+    "static/media/kate.webp": "./static/media/kate.9aa5a49e748a81347860.webp",
+    "static/media/dunkirk.webp": "./static/media/dunkirk.116ca691c46b03461cb3.webp",
+    "static/media/inception.webp": "./static/media/inception.4beaf1d4b5ca72f7f2d1.webp",
+    "static/media/dark.webp": "./static/media/dark.533e454140ca7edeea3c.webp",
+    "static/media/peter.webp": "./static/media/peter.abc009a4fcf009e12684.webp",
+    "static/media/interstellar.webp": "./static/media/interstellar.db92e6445fb469c63cac.webp",
+    "static/media/jamie.webp": "./static/media/jamie.cedde0982f11c9480569.webp",
+    "static/media/batman.webp": "./static/media/batman.2b6eb3a7627fbde97d19.webp",
+    "static/media/memento.webp": "./static/media/memento.19c7523a9b79affc038a.webp",
+    "static/media/phil.webp": "./static/media/phil.bfb7f16eb39d07db42a0.webp",
     "index.html": "./index.html",
-    "main.86a9ca76.css.map": "./static/css/main.86a9ca76.css.map",
-    "main.7cb6e2d2.js.map": "./static/js/main.7cb6e2d2.js.map"
+    "main.1c4397f6.css.map": "./static/css/main.1c4397f6.css.map",
+    "main.f8ef569a.js.map": "./static/js/main.f8ef569a.js.map"
   },
   "entrypoints": [
-    "static/css/main.86a9ca76.css",
-    "static/js/main.7cb6e2d2.js"
+    "static/css/main.1c4397f6.css",
+    "static/js/main.f8ef569a.js"
   ]
 }
