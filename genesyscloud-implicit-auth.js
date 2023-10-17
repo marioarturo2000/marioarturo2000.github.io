@@ -9,11 +9,8 @@ if (window.location.hash) {
 	const state = getParameterByName('state');
 	retrieveUrlParameters(state);
 } else {
-	let clientId = getParameterByName('clientId');
-	if (clientId.length === 0) {
-		clientId = 'ec8d20f0-a7d3-481a-9512-5ec77db14554';
-	}
-	console.log(clientId);
+	const urlSearchParams = new URLSearchParams(window.location.search);
+	const clientId = urlSearchParams.get('clientId');
 	const queryStringData = {
 		response_type: 'token',
 		client_id: clientId,
